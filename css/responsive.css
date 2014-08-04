@@ -1,0 +1,54 @@
+@media (min-width: 1200px) {
+
+}
+@media (min-width: 992px) {  
+
+}
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+@media (max-width: 991px) {
+
+}
+
+@media (max-width: 767px) {
+
+}
+
+@media (min-width: 500px) and (max-width: 767px){
+
+}
+@media (max-width: 500px) {
+
+}
+@media (max-width: 480px) {
+
+}
+@media (min-width: 320px) and (max-width: 480px) {
+
+}
+
+@media (min-width: 320px) {
+ 
+}
+
+/* 
+@media 
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (   min--moz-device-pixel-ratio: 2),
+only screen and (     -o-min-device-pixel-ratio: 2/1),
+only screen and (        min-device-pixel-ratio: 2),
+only screen and (                min-resolution: 192dpi),
+only screen and (                min-resolution: 2dppx) {
+
+  
+} */
+
+/*  Smartphone Retina Displays (excludes Retina MBP and Retina iPad) */
+/* @media
+only screen and (max-width: 767px) and (-moz-min-device-pixel-ratio: 2),
+only screen and (max-width: 767px) and (-o-min-device-pixel-ratio: 2/1),
+only screen and (max-width: 767px) and (-webkit-min-device-pixel-ratio: 2),
+only screen and (max-width: 767px) and (min-device-pixel-ratio: 2) {
+
+} */

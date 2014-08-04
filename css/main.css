@@ -1,0 +1,89 @@
+
+body {
+    font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;
+    font-size: 12px;
+}
+
+.menu_content{
+    margin-bottom: 0;
+}
+#banner {
+    position: relative;
+    margin-bottom: 20px;
+}
+.nivo-caption h2, .nivo-caption h3, .nivo-caption p {
+    margin: 0;
+    padding: 0;
+}
+.nivo-caption .estilo1 {
+    color: #5c747e;
+    font-family: MyriadPro-Regular;
+    font-size: 15px;
+}
+.nivo-caption .estilo2 {
+    color: #ed1d24;
+    font-family: MyriadPro-Semibold;
+    font-size: 41px;
+    line-height: 41px;
+}
+.nivo-caption .estilo3 {
+    color: #5c747e;
+    font-family: MyriadPro-Regular;
+    font-size: 24px;
+}
+.nivo-caption .estilo4 {
+    color: #ed1d24;
+    font-family: MyriadPro-Bold;
+    font-size: 19px;
+}
+.nivo-caption .estilo5 {
+    color: #ed1d24;
+    font-family: MyriadPro-Light;
+    font-size: 19px;
+    line-height: 19px;
+}
+.nivo-caption .estilo_img {
+    margin: 10px 0;
+    overflow: hidden;
+}
+.nivo-caption .estilo_img img {
+    display: block;
+    float: left;
+    margin-right: 20px;
+    position: relative;
+}
+.slider-wrapper.theme-defaul {
+    position: relative;
+    z-index: 1;
+}
+.footer_content {
+    border-top: 1px solid #3898cf;
+    font-size: 12px;
+    margin-top: 10px;
+    overflow: hidden;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.footer_content .modulo {
+    border-right: 1px solid #3898cf;
+    float: left;
+    min-height: 80px;
+    overflow: hidden;
+    padding: 0 5px;
+}
+.footer_content .modulo h3, .footer_content .modulo a {
+    color: #3898cf;
+    font-family: MyriadPro-Cond;
+    font-size: 14px;
+    margin: 0;
+}
+.footer_content .modulo p {
+    color: #828e96;
+    font-family: MyriadPro-Cond;
+    font-size: 13px;
+}
+
+#map_canvas{
+    min-height: 232px;
+    width: 100%;
+}

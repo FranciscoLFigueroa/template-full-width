@@ -1,0 +1,20 @@
+.img-responsive {
+  width: auto;
+}
+.footer_content .modulo.col5 img{
+    width: 170px;
+    margin: 0 !important;
+}
+#form_home h3{
+	font-size: 18px;
+}
+#form_home .token .col2 {
+ width: 131px;
+}
+#form_home .token .col2 p {
+  font-size: 13px;
+  margin-bottom: 5px;
+ }
+ .infor_right h3{
+ 	font-size: 18px;
+ }
