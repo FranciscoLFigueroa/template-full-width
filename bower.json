@@ -1,0 +1,16 @@
+{
+  "name": "app",
+  "version": "0.1",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.2",
+    "nivoslider": "*"
+  }
+}
